@@ -22,19 +22,20 @@ La narration peut ensuite être écoutée grâce à la synthèse vocale ElevenLa
 ## Installation
 
 1. Cloner le projet :
-   git clone https://github.com/votre-repo/vintage-photo-narrator.git
+   git clone https://github.com/ayaamiry/Vintage-Photo-Narrator-PFA-.git
+   
    cd vintage-photo-narrator
 
-2. Installer les dépendances :
+3. Installer les dépendances :
    pip install -r requirements.txt
 
-3. Configurer les clés API dans app.py :
+4. Configurer les clés API dans app.py :
    GEMINI_API_KEY = "AIza..."
 
    Et dans tts.py :
    api_key="sk_..."
 
-4. Lancer l'application :
+5. Lancer l'application :
    streamlit run app.py
 
 ## Structure du projet
