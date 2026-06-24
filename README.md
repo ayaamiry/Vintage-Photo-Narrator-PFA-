@@ -40,6 +40,7 @@ La narration peut ensuite être écoutée grâce à la synthèse vocale ElevenLa
 ## Structure du projet
 
 vintage_photo_narrator/
+
 ├── app.py          # Interface Streamlit principale
 
 ├── vlm.py          # Modèle de vision (analyse de la photo)
