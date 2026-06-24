@@ -30,7 +30,7 @@ La narration peut ensuite être écoutée grâce à la synthèse vocale ElevenLa
    pip install -r requirements.txt
 
 4. Configurer les clés API dans app.py :
-   GEMINI_API_KEY = "AIza..."
+   GEMINI_API_KEY = "AQ..."
 
    Et dans tts.py :
    api_key="sk_..."
